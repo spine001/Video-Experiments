@@ -1,0 +1,31 @@
+{
+  "name": "video-chat-in-node",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Julio Spinelli",
+  "license": "MIT",
+  "dependencies": {
+    "cookie-session": "^1.4.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.1",
+    "http": "^0.0.1-security",
+    "https": "^1.0.0",
+    "morgan": "^1.10.0",
+    "mz": "^2.7.0",
+    "nodemon": "^2.0.9",
+    "os": "^0.1.1",
+    "path": "^0.12.7",
+    "pem": "^1.14.4",
+    "socket.io": "^4.1.2"
+  },
+  "devDependencies": {},
+  "keywords": [],
+  "description": "",
+  "optionalDependencies": {
+    "bufferutil": "^4.0.3",
+    "utf-8-validate": "^5.0.5"
+  }
+}
